@@ -1,0 +1,1 @@
+In this project I will practice the basic HTML skills I have learned to build a website to host basic recipes. I will also practice skills to use Git & GitHub.
